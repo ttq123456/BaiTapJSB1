@@ -4,7 +4,7 @@
  *      Nhập dữ liệu số ngày làm
  * 
  * Khối 2: Xử lý
- *  B1: Khởi tạo biến số ngày soNgay
+ *  B1: Khởi tạo biến số ngày soNgay và gán giá trị
  *  B2: Lập công thức
  *      Luong = soNgay * 100000;
  *  B3: Thông báo kết quả (console.log)
