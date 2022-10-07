@@ -14,7 +14,10 @@
  * 
  */
 
-var soNgay = 0;
+var soNgay = 1;
 
 var luong = 0;
 
+luong = soNgay * 100000;
+
+console.log("Lương nhân viên: ", luong);
